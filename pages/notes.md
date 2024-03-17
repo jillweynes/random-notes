@@ -1,8 +1,8 @@
 ---
 layout: Post
-permalink: /notes
+permalink: /
 feedformat: card
-title: Digital Garden
+title: Random Notes
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+See the collection below
