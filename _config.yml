@@ -76,8 +76,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-  math_engine: katex
-  smart_quotes: ["apos", "apos", "quot", "quot"]
+  # math_engine: katex
+  # smart_quotes: ["apos", "apos", "quot", "quot"]
   syntax_highlighter: rouge
   
 sass:
